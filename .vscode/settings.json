@@ -1,6 +1,0 @@
-{
-    "python.analysis.autoImportCompletions": false,
-    "python.analysis.diagnosticsSource": "Pylance + Pyrefly",
-    "python.analysis.languageServerMode": "default",
-    "python.analysis.typeCheckingMode": "standard"
-}
