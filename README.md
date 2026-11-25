@@ -134,7 +134,6 @@ df_DA_UK_Percent = (
 
 ![Monthly trend of the five leading Data Analyst skills in the UK](3.%20Projects/images/skills-trend.png)
 
-*The README uses the improved line chart with its legend. The earlier, less-formatted version is intentionally not included.*
 
 ### Key Insights
 
